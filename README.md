@@ -12,7 +12,7 @@ a personalized workout app utilized for myself and friends to plan workouts.
 
 ## I plan to work on...
 
-1. Pet memory / memorial page.
+1. Pet memory / memorial page with animal recognition and categorization Machine Learning app. 
 
 ## I like to...
 Powerlift, program, hike, read, create, and learn new things.
