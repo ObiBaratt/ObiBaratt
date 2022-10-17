@@ -15,7 +15,7 @@ I earn my Bachelors of Science in Organic and Biochemistry with a minor in Compu
 ## I'm currently working on...
 1. Fixing up the UI in my [Kanban Board](https://github.com/ObiBaratt/kanban-board) project and adding a landing page. 
 2. Working on freelancing projects.
-3. Planning a startup with a partner. 
+3. Planning a startup with a potential co-founder.  
 
 ## I enjoy
 - Consistent improvement. Sometimes seems like such a huge amount of effort to improve but if you keep taking incremental steps towards perfection they quickly add up.
