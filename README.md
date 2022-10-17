@@ -13,8 +13,9 @@ I earn my Bachelors of Science in Organic and Biochemistry with a minor in Compu
 <p>In essence, I'm a problem solver, and a creator.</p>
 
 ## I'm currently working on...
-1. Personalized UI kit.
-2. My Full Stack Internship @ Amotions
+1. Fixing up the UI in my [Kanban Board](https://github.com/ObiBaratt/kanban-board) project and adding a landing page. 
+2. Working on freelancing projects.
+3. Planning a startup with a partner. 
 
 ## I enjoy
 - Consistent improvement. Sometimes seems like such a huge amount of effort to improve but if you keep taking incremental steps towards perfection they quickly add up.
