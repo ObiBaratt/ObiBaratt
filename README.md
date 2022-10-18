@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obibaratt/)
 
 ## Education
-I earn my Bachelors of Science in Organic and Biochemistry with a minor in Computer Science. After I realized programming was for me, I took a few Udemy Python courses before fully committing to a bootcamp with App Academy Open.
+I earn my Bachelors of Science in Organic and Biochemistry with a minor in Computer Science. After I realized programming was for me, I took a few Udemy Python courses before fully committing to a bootcamp with App Academy Open. I finished App Academy and started my career at Amotions Inc as a Software Engineer (Backend) which quickly became Full-Stack, and then the Engineering Intern Team Lead.
 
 ## History
 <p>Initially a pre-med student, I realized that I didn't want to work in a hospital...</p>
