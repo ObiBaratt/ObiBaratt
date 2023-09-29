@@ -1,3 +1,5 @@
+[![banner.png](https://i.postimg.cc/tJ93YCmt/banner.png)](https://postimg.cc/ph1hSxvp)
+
 ## About Me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obibaratt/)
 
 Full-Stack Developer with a biochemistry/pre-med background, startup experience, and a love of learning. 
@@ -11,6 +13,10 @@ From there I have expanded into the JavaScript and React ecosystems, gaining exp
 ## I Enjoy
 - Consistent improvement. Sometimes it seems like such a huge amount of effort to improve, but if you keep taking incremental steps towards perfection they quickly add up.
 - My hobbies include Powerlifting, Hiking, Reading, and Programming! (Notice a theme?)
+
+## I'm working on
+- Freelance software engineering. If you need dev work send a message on my LinkedIn, or book a time on my [Calendly](https://calendly.com/obib/chat).
+- Some *really* innovative startups.
 
 ## I Help Run
 [The 1700+ member Sacramento JavaScript Meetup](https://www.meetup.com/the-sacramento-javascript-meetup/)
