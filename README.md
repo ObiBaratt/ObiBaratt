@@ -19,7 +19,5 @@ From there I have expanded into the JavaScript and React ecosystems, gaining exp
 - Some *really* innovative startups.
 
 ## I Help Run
-[The 1700+ member Sacramento JavaScript Meetup](https://www.meetup.com/the-sacramento-javascript-meetup/)
-
-## Tech Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obibaratt&hide=html,css)![Obi's GitHub stats](https://github-readme-stats.vercel.app/api?username=obibaratt&hide=html)
+- [The awesome 1700+ member Sacramento JavaScript Meetup community](https://www.meetup.com/the-sacramento-javascript-meetup/)
+- [The new BizTech Mixer designed to boost the local tech ecosystem by connecting engineers looking to build with businessminded people with an idea!](https://norcalentrepreneurhub.com/event-profile/biz-tech-mixer-1)
