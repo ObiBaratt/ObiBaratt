@@ -15,7 +15,7 @@ From there I have expanded into the JavaScript and React ecosystems, gaining exp
 - My hobbies include Powerlifting, Hiking, Reading, and Programming! (Notice a theme?)
 
 ## I'm working on
-- Freelance software engineering. If you need dev work send a message on my LinkedIn, or book a time on my [Calendly](https://calendly.com/obib/chat).
+- Freelance software engineering. If you need dev work send a message on my LinkedIn!
 - Some *really* innovative startups.
 
 ## I Help Run
