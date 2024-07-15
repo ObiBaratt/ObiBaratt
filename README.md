@@ -20,4 +20,4 @@ From there I have expanded into the JavaScript and React ecosystems, gaining exp
 
 ## I Help Run
 - [The awesome 1700+ member Sacramento JavaScript Meetup community](https://www.meetup.com/the-sacramento-javascript-meetup/)
-- [The new BizTech Mixer designed to boost the local tech ecosystem by connecting engineers looking to build with businessminded people with an idea!](https://norcalentrepreneurhub.com/event-profile/biz-tech-mixer-1)
+- [The new BizTech Mixer designed to boost the local tech ecosystem by connecting engineers looking to build with business=minded people with an idea!](https://norcalentrepreneurhub.com/event-profile/biz-tech-mixer-1)
