@@ -1,23 +1,74 @@
-[![banner.png](https://i.postimg.cc/tJ93YCmt/banner.png)](https://postimg.cc/ph1hSxvp)
+# Obi Baratt
 
-## About Me [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obibaratt/)
+Tech Lead & Full-Stack Engineer focused on AI-enabled workflows, data-heavy interfaces, internal tools, and production systems.
 
-Full-Stack Developer with a biochemistry/pre-med background, startup experience, and a love of learning. 
+I work across TypeScript, React, Node.js, Python, PostgreSQL, vector databases, cloud infrastructure, and AI/LLM tooling. My recent work has included geospatial visualization systems, MCP integrations, RAG applications, large-scale data pipelines, React Native apps, and internal tools that turn messy workflows into repeatable systems.
 
-I made a decision to get into medicine during the Ebola crisis. I saw what Doctors Without Borders was doing, heroes who took on massive amounts of student loans, and spent over 10 years studying were leaving their normal lives to fight a terrifyingly deadly disease far away from home. I wanted to be that kind of person.
+Most of my production work lives in private repositories, this profile is to highlight my overall skillset. 
 
-After finishing my premed coursework I discovered something when a simple script I made was downloaded and run on the other side of the planet: Programming has reach. One doctor can treat one patient at a time, but code can be run by as many people as want to run it. I saw another path, taking my exposure to Python for scientific data analysis I began digging into the idea of using code for good, seeing it as a tool to uplift people. 
+---
 
-From there I have expanded into the JavaScript and React ecosystems, gaining experience at startups using React, React-Native, TypeScript, JavaScript, Node, Firebase, PostgreSQL, and more. In essence, I'm a problem solver, a creator, and overjoyed to be able to code every day.
+## Technical Focus
 
-## I Enjoy
-- Consistent improvement. Sometimes it seems like such a huge amount of effort to improve, but if you keep taking incremental steps towards perfection they quickly add up.
-- My hobbies include Powerlifting, Hiking, Reading, and Programming! (Notice a theme?)
+### Full-Stack Product Engineering
+- React, React Native, Next.js, TypeScript, Node.js
+- PostgreSQL, MySQL, Firestore, DynamoDB, Redis, MongoDB
+- Authentication, RBAC, team-based permissions, dashboards, onboarding flows
+- Data-heavy user interfaces, mobile workflows, and internal product tools
 
-## I'm working on
-- Freelance software engineering. If you need dev work send a message on my LinkedIn!
-- Some *really* innovative startups.
+### AI / LLM Systems
+- MCP integrations for internal tool access
+- RAG workflows using vector databases and LLM orchestration
+- LangChain, prompt engineering, retrieval pipelines, and AI-enabled MVPs
+- Practical AI adoption for engineering, sales, finance, and internal operations
 
-## I Help Run
-- [The awesome 1700+ member Sacramento JavaScript Meetup community](https://www.meetup.com/the-sacramento-javascript-meetup/)
-- [The new BizTech Mixer designed to boost the local tech ecosystem by connecting engineers looking to build with business=minded people with an idea!](https://norcalentrepreneurhub.com/event-profile/biz-tech-mixer-1)
+### Data, Automation & Backend Systems
+- High-volume data ingestion and scraping workflows
+- Dockerized automation jobs and scheduled data pipelines
+- Backend APIs connecting external data sources to analytics and user-facing apps
+- Flask, Node.js, REST APIs, tRPC, GraphQL, WebSockets
+
+### Frontend Performance & Visualization
+- Browser-heavy geospatial visualization
+- React/React Native performance optimization
+- Three.js, mapping tools, interactive dashboards, and data exploration UIs
+- Caching, memoization, render optimization, and API-call reduction
+
+---
+
+## Selected Technical Work
+
+### Production Systems
+Recent private work includes:
+- AI-enabled internal tooling using Claude + MCP
+- Geospatial visualization systems using React, TypeScript, Three.js, AWS/GCP, and mapping data
+- RAG-enabled applications using Next.js, Milvus, LangChain, and LLM orchestration
+- High-volume data ingestion systems processing tens of millions of records
+- HIPAA aware workflow tools
+
+## Stack
+
+**Languages:** TypeScript, JavaScript, Python, Go  
+**Frontend:** React, React Native, Next.js, Vue, Nuxt, Three.js  
+**Backend:** Node.js, Flask, Go/Chi, tRPC, GraphQL, REST APIs, WebSockets  
+**Data:** PostgreSQL, MySQL, Firestore, DynamoDB, Redis, MongoDB, Neo4j, Milvus  
+**AI:** LLMs, RAG, vector databases, LangChain, MCP, prompt engineering  
+**Infra:** AWS, GCP, Docker, Heroku, CloudWatch, scheduled jobs  
+**Testing:** Jest, Cypress, Playwright, Selenium, Mocha  
+
+---
+
+## What I Like Building
+
+- Tools that make complex workflows simple
+- Data-heavy interfaces that stay fast
+- AI workflows that connect to real operational systems
+- Internal tools that remove repeated manual work
+- Products where frontend, backend, data, and product judgment all matter
+
+---
+
+## Elsewhere
+
+- LinkedIn: https://www.linkedin.com/in/obibaratt/
+- Writing / profile hub: https://www.obibaratt.com/
